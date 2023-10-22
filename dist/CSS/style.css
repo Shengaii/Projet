@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    size: 800px;
+    font-family:'Open Sans','Helvetica Neue',Arial,sans-serif;
+}
+h1{
+    color: coral;
+    text-align: center;
+    size: 2.5rem;
+    text-shadow: darkgoldenrod;
+}
+article{
+    background-color: lightgoldenrodyellow;
+    border-style:ridge;
+    border-color: lightcoral;
+    border-radius: 15px;
+    padding: 25px;
+    text-align: justify;
+}
+section{
+    margin: 20px;
+    width: 250px;
+}
+img{
+    size: 240px;
+     border-radius: 240px;
+}
+a{
+    background-color: lightgoldenrodyellow;
+    border-style: ridge;
+    border-color: lightcoral;
+    border-radius: 15px;
+    padding: 25px;
+    text-align: center;
+    margin-top: 15px;
+}
+a:hover{
+    background-color:lightsalmon;
+    color:blue;
+    cursor: pointer;
+    display: block;
+}
