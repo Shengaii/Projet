@@ -7,7 +7,7 @@ h1{
     color: coral;
     text-align: center;
     size: 2.5rem;
-    text-shadow: darkgoldenrod;
+    text-shadow:  12px, black;
 }
 article{
     background-color: lightgoldenrodyellow;
@@ -39,5 +39,4 @@ a:hover{
     background-color:lightsalmon;
     color:blue;
     cursor: pointer;
-    
 }
