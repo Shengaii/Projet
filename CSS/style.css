@@ -1,6 +1,6 @@
 body{
-    text-align: center;
-    size: 800px;
+    margin : 0 auto;
+    width: 800px;
     font-family:'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 h1{
@@ -16,15 +16,18 @@ article{
     border-radius: 15px;
     padding: 25px;
     text-align: justify;
-    text-rendering: auto;
+    line-height: 50px;
+    display: flex;
+    justify-content: space-between;
 }
 section{
     margin: 20px;
     width: 250px;
 }
 img{
-    size: 240px;
-     border-radius: 240px;
+    width: 240px;
+    height: 240px;
+    border-radius: 240px;
 }
 a{
     display: block;
