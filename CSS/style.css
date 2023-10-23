@@ -16,6 +16,7 @@ article{
     border-radius: 15px;
     padding: 25px;
     text-align: justify;
+    text-rendering: auto;
 }
 section{
     margin: 20px;
