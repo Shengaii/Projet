@@ -26,6 +26,7 @@ img{
      border-radius: 240px;
 }
 a{
+    display: block;
     background-color: lightgoldenrodyellow;
     border-style: ridge;
     border-color: lightcoral;
@@ -38,5 +39,5 @@ a:hover{
     background-color:lightsalmon;
     color:blue;
     cursor: pointer;
-    display: block;
+    
 }
