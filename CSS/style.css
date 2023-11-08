@@ -7,7 +7,7 @@ h1{
     color: coral;
     text-align: center;
     size: 2.5rem;
-    text-shadow:  12px, black;
+    text-shadow:  5px,10pc, black;
 }
 article{
     background-color: lightgoldenrodyellow;
@@ -16,7 +16,7 @@ article{
     border-radius: 15px;
     padding: 25px;
     text-align: justify;
-    line-height: 50px;
+    line-height: 30px;
     display: flex;
     justify-content: space-between;
 }
